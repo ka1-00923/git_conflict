@@ -1,2 +1,2 @@
 # git_conflict
-BRANCH:feature/update_readme
+BRANCH:fix/readme
